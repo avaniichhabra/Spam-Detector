@@ -26,3 +26,4 @@ Model Training: Training the classifier on 80% of the data.
 Evaluation: Using Confusion Matrices, F1-Score, and Precision-Recall curves.
 
 ## Performance Metrics
+Accuracy - 98.3%
